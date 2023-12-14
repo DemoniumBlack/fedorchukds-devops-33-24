@@ -134,7 +134,7 @@ pipeline {
 
 Ссылка на Declarative Pipeline: https://github.com/DemoniumBlack/vector-role-molecule/blob/main/Jenkinsfile
 
-Ссылка на Scripted Pipeline: 
+Ссылка на Scripted Pipeline: https://github.com/DemoniumBlack/fedorchukds-devops-33-24/blob/main/SRC/ScriptedJenkinsfile
 
 
 ## Необязательная часть
