@@ -128,7 +128,7 @@ pipeline {
 
 ![img_16.png](IMG/img_16.png)
 
-7. Изменения внесенные в Pipeline находятся в файле `ScriptedJenkinsfile`
+7. Изменения внесенные в Pipeline находятся в файле [`ScriptedJenkinsfile`](https://github.com/DemoniumBlack/fedorchukds-devops-33-24/blob/main/SRC/ScriptedJenkinsfile)
 
 8. Репозиторий, на котором тестировался запуск Freestyle Job и Declarative Pipeline Job с запуском `molecule test`: https://github.com/DemoniumBlack/vector-role-molecule
 
